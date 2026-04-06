@@ -6,7 +6,7 @@
 2. Запусти команду:
 
 ```bash
-python main.py
+python3 main.py
 ```
 
 ## Що робить `main.py`
