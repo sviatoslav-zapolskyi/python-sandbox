@@ -1,10 +1,10 @@
-modules = ["python-3.12", "tkinter"]
+modules = ["python-3.11", "tkinter"]
 [agent]
 expertMode = true
 
 [nix]
 channel = "stable-25_05"
-packages = ["vim", "python312Packages.tkinter", "tcl", "tk", "python312Full", "python3Full"]
+packages = ["vim", "python311Packages.tkinter", "tcl", "tk", "python311Full", "python3Full"]
 
 [workflows]
 runButton = "Project"
