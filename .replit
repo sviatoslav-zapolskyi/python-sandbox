@@ -1,4 +1,4 @@
-modules = ["python-3.11", "tkinter"]
+modules = ["python-3.12", "tkinter"]
 [agent]
 expertMode = true
 
